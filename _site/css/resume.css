@@ -1,0 +1,90 @@
+body {
+  background-color: white;
+}
+
+#main {
+  background-color: #f5f7fa;
+  padding: 0px;
+}
+
+#header {
+  margin-top: 20px;
+  border-color: rgb(82, 92, 101);
+}
+
+#contact {
+  padding: 5px;
+}
+
+.contact-item {
+  padding: 5px;
+}
+
+
+section {
+  padding: 5px 20px;
+}
+
+section .nav {
+  background-color: #f5f7fa;
+}
+
+#introduction, #experiences, #educations, #open-courses {
+  background-color: white;
+  padding: 20px 60px;
+  -webkit-box-shadow: 1px 2px 1px -1px rgba(0,0,0,0.76);
+  -moz-box-shadow: 1px 2px 1px -1px rgba(0,0,0,0.76);
+  box-shadow: 1px 2px 1px -1px rgba(0,0,0,0.76);
+
+}
+
+#introduction {
+  margin-top: 20px;
+}
+
+#experiences h3 {
+  padding: 10px;
+}
+
+#educations h3 {
+  padding: 10px;
+}
+
+#open-courses h3 {
+  padding: 10px;
+}
+
+#quote-container {
+  padding-top: 10px;
+}
+
+.logo {
+  width: 120px;
+  height: 100px;
+
+}
+
+.experience-item {
+  margin-top: 30px;
+}
+
+.education-item {
+  margin-top: 30px;
+}
+
+.position {
+  margin-left: 30px;
+}
+
+.responsibility {
+  margin-top: 20px;
+}
+
+.exp-desc {
+  margin-bottom: 20px;
+}
+
+.skill {
+  color: #00d1b2;
+  padding: 5px;
+}
